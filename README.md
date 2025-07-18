@@ -66,25 +66,19 @@ The final Excel dashboard includes:
 - Rating and discount percentage show no strong correlation.
 - A few high-performing products account for a significant portion of potential revenue.
 
-## 📥 Files in This Repository
+## Files in This Repository
 
 | File | Description |
-|------|-------------|
-| `Amazon case study_083209.xlsx` | Cleaned data, pivot tables & dashboard |
+| [Amazon Project Review Dashboard.pdf](https://github.com/user-attachments/files/21314927/Amazon.Project.Review.Dashboard.pdf)|
+| [Amazon Project Review Dashboard.xlsx](https://github.com/user-attachments/files/21314613/Amazon.Project.Review.Dashboard.xlsx) | Cleaned data, pivot tables & dashboard |
 | `README.md` | Project summary and insights |
-| `Amazon_Dashboard_Layout.docx` | Dashboard layout guide used during design |
+| [Amazon_Dashboard_Layout.docx](https://github.com/user-attachments/files/21314650/Amazon_Dashboard_Layout.docx)| Dashboard layout guide used during design |
 
----
-
-## 📣 Author
-
-👤 **[Your Full Name]**  
+## Author
+## Osin-Adebisi Opeoluwa Sarah 
 Junior Data Analyst at RetailTech Insights  
-📍 Nigeria | 💻 Excel, Power BI, SQL  
+Nigeria | Excel, Power BI, SQL  
 
----
-
-## ✅ Status
-
-🟢 Project Completed — Dashboard fully built using Excel and Power Query  
-🗓️ Last Updated: July 2025
+## Status
+ Project Completed — Dashboard fully built using Excel and Power Query  
+ Last Updated: July 2025
